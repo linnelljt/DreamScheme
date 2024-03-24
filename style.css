@@ -13,7 +13,7 @@ html, body{
     background-color: white;
     min-height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: "./images/football-1024x683.jpg";
+    background-image: "../images/football-1024x683.jpg";
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
